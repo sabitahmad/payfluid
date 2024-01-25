@@ -10,7 +10,7 @@
     "sdk"
   ],
   "readme": "README.md",
-  "homepage": "https://github.com/gitplus-apps/payfluid",
+  "homepage": "https://github.com/sabitahmad/payfluid",
   "autoload": {
     "psr-4": {
       "Gitplus\\PayFluid\\": "src/"
@@ -25,11 +25,11 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/gitplus-apps/payfluid/issues"
+    "issues": "https://github.com/sabitahmad/payfluid/issues"
   },
   "require": {
     "php": ">=7.4",
-    "phpseclib/phpseclib": "~2.0",
+    "phpseclib/phpseclib": "~3.0"
     "ext-json": "*",
     "ext-curl": "*"
   },
