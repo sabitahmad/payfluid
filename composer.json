@@ -1,5 +1,5 @@
 {
-  "name": "gitplus/payfluid",
+  "name": "palace/payfluid",
   "description": "A wrapper around PayFluid's API",
   "type": "library",
   "license": "MIT",
